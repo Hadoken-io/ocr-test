@@ -76,7 +76,7 @@ python pipeline.py sample_input.png -l en de fr
 
 ### Input image
 
-![Sample input](sample.png)
+![Sample input](sample_image.png)
 
 The sample image (`sample_input.png`) contains five lines of text with varying content including letters, numbers, and special characters.
 
